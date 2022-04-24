@@ -40,6 +40,6 @@ while True:
             if alarm_min == current_min:
                 if alarm_sec == current_sec:
                     print("Проснись!")
-                    playsound('D://Просыпайся мой хозяин!.mp3')
+                    playsound('C:/Users/Anna/PycharmProjects/new_project/Просыпайся мой хозяин!.mp3')
                     break
 
